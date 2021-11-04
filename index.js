@@ -33,7 +33,7 @@ const questions = [
   {
     type: "input",
     name: "usage",
-    message: "Please describe what the app is used for",
+    message: "Please describe how to use the application.",
   },
   {
     type: "confirm",

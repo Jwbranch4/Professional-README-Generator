@@ -1,9 +1,9 @@
-# readme
+# Professional-README-Generator
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
 
-  readme
+  A command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
   ## Table of Contents
 
@@ -20,7 +20,7 @@
 
   ## Usage
 
-  readme
+  type node index.js, then answer questions.
 
   ## License
   MIT License(https://opensource.org/licenses/MIT)
@@ -183,7 +183,7 @@ For answers to common questions about this code of conduct, see the FAQ at
 
   ## Tests
 
-  no test
+  No test for this application.
 
   ## Questions
 

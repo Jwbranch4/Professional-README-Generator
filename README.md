@@ -17,9 +17,9 @@ To create a README based of the answers to a series of prompts in the command li
 
 ## Links
 
-| To github repository:                                      | To video:                              |
-| ---------------------------------------------------------- | -------------------------------------- |
-| https://github.com/Jwbranch4/Professional-README-Generator | https://jwbranch4.github.io/Portfolio/ |
+| To github repository:                                      | To video:                                              |
+| ---------------------------------------------------------- | ------------------------------------------------------ |
+| https://github.com/Jwbranch4/Professional-README-Generator | https://watch.screencastify.com/v/bqZjVtOLom0SPWhnDbm6 |
 
 ![screenshot](/images/READMEscreenshot.png)
 
