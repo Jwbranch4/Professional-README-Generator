@@ -7,6 +7,16 @@ const generateMarkdown = require("./utils/generateMarkdown.js");
 const questions = [
   {
     type: "input",
+    name: "github",
+    message: "What is your GitHub username?",
+  },
+  {
+    type: "input",
+    name: "email",
+    message: "What is the email address you would like to be contacted from?",
+  },
+  {
+    type: "input",
     name: "title",
     message: "What is the name of your project?",
   },
@@ -26,9 +36,10 @@ const questions = [
     message: "Please describe what the app is used for",
   },
   {
-    type: "input",
+    type: "confirm",
     name: "contribution",
-    message: "What are the contribution guidelines?",
+    message: "Would you like to use Contributor Covenant Code of Conduct?",
+    default: true,
   },
   {
     type: "input",
