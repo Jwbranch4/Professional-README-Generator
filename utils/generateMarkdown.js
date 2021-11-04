@@ -240,6 +240,7 @@ function generateMarkdown(data) {
   * [Contributing](#contributing)
   * [License](#license)
   * [Tests](#tests)
+  * [Questions](#questions)
 
   ## Installation
 
@@ -264,10 +265,10 @@ function generateMarkdown(data) {
 
   ## Questions
 
-  If you have any questions about this application please click the link to github (github.com/${
+  If you have any questions about this application please click the link to github https://github.com/${
     data.github
-  })
-  or email me at (${data.email})
+  }
+  or email me at ${data.email}
 
   
 `;
